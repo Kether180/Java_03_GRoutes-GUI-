@@ -1,6 +1,6 @@
 
-                                             Java_03_Praktikum 3 
-                               GeographicRoutes_ Graphical User Interfaces(GUI)
+                                             Java Praktikum 3 
+                               Geographic Routes Graphical User Interfaces (GUI)
 1 Overview
 
         ▪ Primary Learning Objectives: Graphical User Interfaces (GUI).
