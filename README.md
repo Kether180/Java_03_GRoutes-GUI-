@@ -1,8 +1,7 @@
 
                                              Java_03_Praktikum 3 
                                GeographicRoutes_ Graphical User Interfaces(GUI)
-
-1. Overview
+1 Overview
 
         ▪ Primary Learning Objectives: Graphical User Interfaces (GUI).
         ▪ For the source code, please create a package called lab3.geoPosition.
