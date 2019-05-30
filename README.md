@@ -24,6 +24,7 @@ Create a GUI with the following functionalities. Please note that only the requi
     ▪ Users can delete the defined route.
     
 3 Optional
+
 The following requirements are not needed to be fulfilled to pass the lab. However, they are a good way to practice if you have some time left and are looking for a challenge.
 
     ▪ The application displays the current position (x, y) of the mouse on the map.
