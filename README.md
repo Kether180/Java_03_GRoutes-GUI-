@@ -1,17 +1,18 @@
-# Java_03_GRoutes-GUI-
-Java_03_GeographicRoutes_ Graphical User Interfaces(GUI)
+
+                                             Java_03_Praktikum 3 
+                               GeographicRoutes_ Graphical User Interfaces(GUI)
 
 1. Overview
 
-▪ Primary Learning Objectives: Graphical User Interfaces (GUI).
-▪ For the source code, please create a package called lab3.geoPosition.
+        ▪ Primary Learning Objectives: Graphical User Interfaces (GUI).
+        ▪ For the source code, please create a package called lab3.geoPosition.
 
 In this lab exercise you will develop a Graphical User Interface (GUI). There are no requirements regarding both the classes to be implemented and the exact design of the GUI. Instead, it is only important that your program fulfills the functionality described in Section 3.
 
 The following figure shows one possible solution for the application to be developed. The GUI includes a map in which the user can define a route consisting of one or several parts (here a route from Hamburg to Kiel is shown in red color). A defined route may be deleted. It is your decision whether you implement this functionality, e.g., using a button and/or a menu item. The example solution additionally displays the total length of the route defined as well as the mouse position in geographical coordinates.
 
-
 2 Exercise
+
 Create a GUI with the following functionalities. Please note that only the requirements defined in Section 3.1 are mandatory. Please also consider the hints given in Section 3.3 as well as the solution strategy described in Section 4.
 
 2.1 Mandatory
@@ -31,10 +32,9 @@ The following requirements are not needed to be fulfilled to pass the lab. Howev
     
 3.1 Hints
 
-▪ Map:
-
-o Read the file with ImageIO.read() creating an object of type BufferedImage and use drawImage() for drawing.
-o Eclipse uses the directory of the Java project for reading and writing. Thus, please add the image file (OSM_Map.png) using for example drag&drop (from explorer to package lab3.geoPosition) and use the relative file path (lab3/geoPosition/OSM_Map.png) for reading.
+        ▪ Map:
+         Read the file with ImageIO.read() creating an object of type BufferedImage and use drawImage() for drawing.
+        Eclipse uses the directory of the Java project for reading and writing. Thus, please add the image file (OSM_Map.png) using for             example drag&drop (from explorer to package lab3.geoPosition) and use the relative file path (lab3/geoPosition/OSM_Map.png) for reading.
 
     ▪ Mouse events: Implement a MouseListener and add it to your panel with addMouseListener(). To respond to mouse movements, use MouseMotionListener and addMouseMotionListener().
     
